@@ -1,0 +1,28 @@
+.main-nav li {
+    display: inline-block;
+}
+
+.container {
+    border: solid 3px red;
+}
+
+.sub-menu {
+    border: dotted 3px green;
+}
+
+.inline p {
+    display:inline;
+    color: blue;
+}
+
+.blocks p {
+    color: green;
+}
+
+.inline {
+    border: double 3px green;
+}
+
+span {
+    display: table;
+}
